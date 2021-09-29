@@ -3,7 +3,7 @@ Type: Package
 Title: Exemple de package pour le dernier cours
 Version: 0.1.0
 Authors@R: person("Fournier", "Patrick",
-                  email = "pfournier@countermail.com",
+                  email = "fournier.patrick@hushmail.com",
                   role = c("aut", "cre"))
 Description: Un package qui ne fait pas grand chose mais qui le fait bien!
     Je n'aurais pas écrit cela dans le champ Title. Toutefois, le champ 
