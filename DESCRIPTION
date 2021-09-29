@@ -1,12 +1,16 @@
 Package: exemple
 Type: Package
-Title: Exemple de package pour le dernier cours.
+Title: Exemple de package pour le dernier cours
 Version: 0.1.0
 Authors@R: person("Fournier", "Patrick",
-                 email = "pfournier@countermail.com",
-                 role = c("aut", "cre"))
-Description: Un package qui ne fait pas grand chose mais qui le fait bien! Je n'aurais pas écrit cela dans le champ Title. Toutefois, le champ Description est idéal pour ce genre de présentation.Il est même possible de diviser le texte en paragraphe! N'est-ce pas merveilleux?
+                  email = "pfournier@countermail.com",
+                  role = c("aut", "cre"))
+Description: Un package qui ne fait pas grand chose mais qui le fait bien!
+    Je n'aurais pas écrit cela dans le champ Title. Toutefois, le champ 
+    Description est idéal pour ce genre de présentation.
+    Il est même possible de diviser le texte en paragraphe! N'est-ce pas
+    merveilleux?
 License: GPL-2
 Encoding: UTF-8
-LazyData: true  
-RoxygenNote: 6.1.1
+LazyData: true
+RoxygenNote: 7.1.2

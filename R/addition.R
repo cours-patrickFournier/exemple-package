@@ -1,20 +1,21 @@
-#' Additionne 2
+#' Additionne 1
 #'
-#' Ajoute 2 à un vecteur.
+#' Ajoute 1 à un vecteur, élément par élément.
 #'
-#' La fonction \code{add2} ajoute 2 en son argument. Pour ce faire,
-#' elle exécute une opération mathématique connue sous le nom d'addition.
+#' La fonction \code{plus1} ajoute 1 à son argument. Pour ce faire,
+#' elle exécute une opération mathématique connue sous le nom
+#' d'addition.
 #'
-#' L'addition est commutative. En conséquence, ses arguments peuvent commuter
-#' sans pour autant changer le résultat.
+#' L'addition est commutative. En conséquence, ses arguments peuvent
+#' commuter sans pour autant changer le résultat.
 #'
 #' @param x vecteur de nombres.
 #'
-#' @return Un vecteur contenant les même nombres que \code{x} auxquels on a
-#' ajouté 1.
+#' @return Un vecteur contenant les même nombres que \code{x} auxquels
+#'     on a ajouté 1.
 #'
 #' @examples
-#' add2(1)
+#' plus1(1:5)
 #'
 #' @export
-add2 <- function(x) x + 1
+plus1 <- function(x) x + 1L
