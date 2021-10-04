@@ -17,6 +17,8 @@ mult2(x, ...)
 }
 \arguments{
 \item{x}{objet à multiplier par 2}
+
+\item{\dots}{arguments paséss aux méthodes}
 }
 \value{
 Un objet du même type que \code{x} correspondant au produit

@@ -3,6 +3,7 @@
 #' Fonction générique permettant de multiplier un objet par 2.
 #'
 #' @param x objet à multiplier par 2
+#' @param \dots arguments paséss aux méthodes
 #'
 #' @return Un objet du même type que \code{x} correspondant au produit
 #'     de \code{x} avec 2.

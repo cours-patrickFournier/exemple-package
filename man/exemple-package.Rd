@@ -14,6 +14,6 @@ Les paragraphes suivants donne différents détails.
 Il peut y en avoir autant que l'on veut!
 }
 \author{
-\strong{Maintainer}: Fournier Patrick \email{pfournier@countermail.com}
+\strong{Maintainer}: Fournier Patrick \email{fournier.patrick@hushmail.com}
 
 }
